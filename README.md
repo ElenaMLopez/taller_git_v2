@@ -51,7 +51,7 @@ Juan Antonio Lleó,
 
 5- Blackmanx (Blackmanx)
 
- #### Fictizia's Realease List
+ #### Fictizia's Realease List. First edition.
 1-
 
 2-
@@ -83,3 +83,6 @@ Juan Antonio Lleó,
 15-
 
 16-
+
+ #### Fictizia's Realease List. Second edition.
+
