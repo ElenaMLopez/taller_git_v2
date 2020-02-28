@@ -1,15 +1,17 @@
 # taller_git
+
 Repositorio de ejemplo para el taller de git
 
- https://elenamlopez.github.io/taller_git
+https://elenamlopez.github.io/taller_git
 
 #### Vínculo del las slides del taller:
+
 - [Git preliminares: Instalar GIT!](https://slides.com/elenam-lopez/taller-de-introduccion-a-git-y-github)
 
 - [Slides.com: Hello Git!!!](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-2)
 
-
 ### Lista de participantes:
+
 #### Primera edición:
 
 Awes0meM4n,
@@ -29,8 +31,8 @@ Carlos J (carlos-havier),
 Richard Padilla (rspadillam),
 Abel España (@abelespana).
 
-
 #### Segunda edición:
+
 Juan Peña (jpenaperez),
 Rico Hardjono,
 Irene Mateo,
@@ -41,6 +43,7 @@ Marta Ocaña (smartsies),
 Juan Antonio Lleó,
 
 #### Tercera edición:
+
 1- Michel Ballesteros (MichelVK)
 
 2- Vicente Parra(nukebull)
@@ -51,7 +54,8 @@ Juan Antonio Lleó,
 
 5- Blackmanx (Blackmanx)
 
- #### Fictizia's Realease List. First edition.
+#### Fictizia's Realease List. First edition.
+
 1-
 
 2-
@@ -84,7 +88,7 @@ Juan Antonio Lleó,
 
 16-
 
- #### Fictizia's Realease List. Second edition.
+#### Fictizia's Realease List. Second edition.
 
 1-
 
@@ -100,7 +104,7 @@ Juan Antonio Lleó,
 
 7- Gustavo Eduardo Vargas Núñez
 
-8- 
+8-
 
 9-
 
@@ -108,13 +112,12 @@ Juan Antonio Lleó,
 
 11-
 
-12- 
+12-
 
 13-
 
-14- 
+14-
 
 15-
 
-16-
-
+16- [Dani Ballesteros](https://daniballesteros.es/)
